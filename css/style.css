@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.padding{
+    padding: 1rem 3rem;
+}
+
+.margin{
+    margin: 1rem auto;
+}
